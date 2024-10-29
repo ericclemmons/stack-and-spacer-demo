@@ -29,29 +29,17 @@ function App() {
       <h1>space-between</h1>
       <h2>CSS</h2>
       <Stack style={{ justifyContent: 'space-between' }}>
-        <button>1</button>
-        <button>2</button>
-        <button>3</button>
-        <button>4</button>
-        <button>5</button>
+        <button>1</button> <button>2</button> <button>3</button> <button>4</button> <button>5</button>
       </Stack>
       <h2>Spacers</h2>
       <Stack>
-        <button>1</button>
-        <button>2</button>
-        <button>3</button>
-        <button>4</button>
-        <button>5</button>
+        <button>1</button> <button>2</button> <button>3</button> <button>4</button> <button>5</button>
       </Stack>
 
       <h1>space-around</h1>
       <h2>CSS</h2>
       <Stack style={{ justifyContent: 'space-around' }}>
-        <button>1</button>
-        <button>2</button>
-        <button>3</button>
-        <button>4</button>
-        <button>5</button>
+        <button>1</button> <button>2</button> <button>3</button> <button>4</button> <button>5</button>
       </Stack>
       <h2>Spacers</h2>
       <Stack>
@@ -71,79 +59,47 @@ function App() {
       <h1>space-evenly</h1>
       <h2>CSS</h2>
       <Stack style={{ justifyContent: 'space-evenly' }}>
-        <button>1</button>
-        <button>2</button>
-        <button>3</button>
-        <button>4</button>
-        <button>5</button>
+        <button>1</button> <button>2</button> <button>3</button> <button>4</button> <button>5</button>
       </Stack>
       <h2>Spacers</h2>
       <Stack>
         <Spacer />
-        <button>1</button>
-        <button>2</button>
-        <button>3</button>
-        <button>4</button>
-        <button>5</button>
+        <button>1</button> <button>2</button> <button>3</button> <button>4</button> <button>5</button>
         <Spacer />
       </Stack>
 
       <h1>start</h1>
       <h2>CSS</h2>
       <Stack style={{ justifyContent: 'start' }}>
-        <button>1</button>
-        <button>2</button>
-        <button>3</button>
-        <button>4</button>
-        <button>5</button>
+        <button>1</button> <button>2</button> <button>3</button> <button>4</button> <button>5</button>
       </Stack>
       <h2>Spacers</h2>
       <Stack>
-        <button>1</button>
-        <button>2</button>
-        <button>3</button>
-        <button>4</button>
-        <button>5</button>
+        <button>1</button> <button>2</button> <button>3</button> <button>4</button> <button>5</button>
         <Spacer grow />
       </Stack>
 
       <h1>center</h1>
       <h2>CSS</h2>
       <Stack style={{ justifyContent: 'center' }}>
-        <button>1</button>
-        <button>2</button>
-        <button>3</button>
-        <button>4</button>
-        <button>5</button>
+        <button>1</button> <button>2</button> <button>3</button> <button>4</button> <button>5</button>
       </Stack>
       <h2>Spacers</h2>
       <Stack>
         <Spacer grow />
-        <button>1</button>
-        <button>2</button>
-        <button>3</button>
-        <button>4</button>
-        <button>5</button>
+        <button>1</button> <button>2</button> <button>3</button> <button>4</button> <button>5</button>
         <Spacer grow />
       </Stack>
 
       <h1>end</h1>
       <h2>CSS</h2>
       <Stack style={{ justifyContent: 'end' }}>
-        <button>1</button>
-        <button>2</button>
-        <button>3</button>
-        <button>4</button>
-        <button>5</button>
+        <button>1</button> <button>2</button> <button>3</button> <button>4</button> <button>5</button>
       </Stack>
       <h2>Spacers</h2>
       <Stack>
         <Spacer grow />
-        <button>1</button>
-        <button>2</button>
-        <button>3</button>
-        <button>4</button>
-        <button>5</button>
+        <button>1</button> <button>2</button> <button>3</button> <button>4</button> <button>5</button>
       </Stack>
     </>
   );
